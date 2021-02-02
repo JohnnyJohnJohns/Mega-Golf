@@ -10,8 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadLevelOnTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/LoadLevelOnTrigger.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BallMovement.cs" />
     </changedPaths>
   </component>
@@ -64,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612266190757</updated>
-      <workItem from="1612266202848" duration="2287000" />
+      <workItem from="1612266202848" duration="3268000" />
     </task>
     <servers />
   </component>
