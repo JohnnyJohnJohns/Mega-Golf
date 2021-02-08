@@ -13,6 +13,11 @@ public class LoadLevelOnTrigger : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
+        ReloadLevel();
+    }
+
+    public void ReloadLevel()
+    {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
