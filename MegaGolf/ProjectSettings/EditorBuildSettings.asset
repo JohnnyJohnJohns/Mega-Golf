@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FireIntro.unity
     guid: f24e56543e5365b4dade02d3cd2456b0
+  - enabled: 1
+    path: Assets/Scenes/SpookyGolf-John.unity
+    guid: 9ce46f2c84e4cef41959daef4433f1db
   m_configObjects: {}
